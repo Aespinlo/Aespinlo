@@ -111,7 +111,6 @@ Home lab to practice production-style operations on virtual machines.
 
 - **Stack:** Python · Gemini API (prompt engineering) · Docker · Linux VPS · Cloudflare
 - **Highlights:** I configured and deployed the whole stack myself, from the Linux server to the containers and the public domain.
-- 🌐 Live: [dreamdecoderapp.com](https://dreamdecoderapp.com)
 
 ---
 
