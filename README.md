@@ -1,8 +1,7 @@
 <!-- ============================================================
-  REPLACE BEFORE PUBLISHING:
-  - YOUR_GITHUB_USER  -> your GitHub username
-  - YOUR_LINKEDIN_SLUG -> your LinkedIn profile slug
-  Delete any line you can't back up in an interview.
+  BEFORE PUBLISHING:
+  - Replace YOUR_GITHUB_USER with your GitHub username (1 link below).
+  - Delete any line you can't back up in an interview.
 ============================================================ -->
 
 <div align="center">
@@ -66,7 +65,7 @@ Outside work, I design telemetry and automation systems end to end: MQTT brokers
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 📡 [weather-station-iot](https://github.com/YOUR_GITHUB_USER/weather-station-iot)
 **Real-time weather station: end-to-end telemetry architecture (Bachelor's Thesis)**
@@ -79,38 +78,24 @@ flowchart LR
     B --> C[(InfluxDB<br/>time-series)]
     C --> D[Grafana<br/>dashboards]
     D --> E[Cloudflare Tunnel]
-    E --> F[domain]
+    E --> F[Custom domain]
 ```
 
 - **Stack:** MQTT (Mosquitto) · InfluxDB · Grafana · Raspberry Pi · Cloudflare Tunnel
-- **Highlights:** network design, time-series storage, real-time visualization, and secure internet exposure through a Cloudflare Tunnel under a custom domain, with no ports opened on the router.
+- **Architecture:** sensors publish to a Mosquitto broker running on a Raspberry Pi, data is stored in InfluxDB as time series, and Grafana serves real-time dashboards.
+- **Secure exposure:** published to the internet through a Cloudflare Tunnel under a custom domain, with no ports opened on the router.
+- **Focus:** network design, time-series storage and real-time visualization.
 
 ---
 
-### ☸️ [k8s-docker-lab](https://github.com/YOUR_GITHUB_USER/k8s-docker-lab)
-**Multi-worker Kubernetes cluster and containerization lab**
+## 🔧 Other Work
 
-Home lab to practice production-style operations on virtual machines.
+- **Kubernetes lab:** multi-worker cluster on virtual machines, used to practice deployments, scaling and self-healing.
+- **Workflow automation:** n8n flows integrating services and publishing content autonomously.
+- **Dream Decoder:** AI analysis app (Python + Gemini API) deployed with Docker on a self-configured Linux VPS.
+- **Embedded hardware:** C/C++ on Arduino and prototyping of a remotely operated underwater vehicle (ROV).
 
-- **Stack:** Kubernetes (control plane + multiple workers) · Docker · Nginx · Bash
-- **Highlights:** automated container deployments, horizontal scaling, high-availability validation and **self-healing tests** (killing pods and nodes to watch recovery).
-- **Focus:** reproducible setup, documented step by step.
-
----
-
-### 🔄 [automation-workflows-n8n](https://github.com/YOUR_GITHUB_USER/automation-workflows-n8n)
-**Workflow automation and service integration**
-
-- **Stack:** n8n · REST APIs · Webhooks · JSON · Docker
-- **Highlights:** automated flows that connect external services and publish content autonomously, replacing repetitive manual work.
-
----
-
-### 🧠 Dream Decoder: AI app on a self-managed VPS
-**Python backend + Gemini API, deployed with Docker**
-
-- **Stack:** Python · Gemini API (prompt engineering) · Docker · Linux VPS · Cloudflare
-- **Highlights:** I configured and deployed the whole stack myself, from the Linux server to the containers and the public domain.
+*Happy to walk through any of these in an interview.*
 
 ---
 
@@ -134,7 +119,7 @@ Home lab to practice production-style operations on virtual machines.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/andres-espinel-teleco/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-espinel-teleco/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:espinellopezandres@gmail.com)
 
 *Open to conversations about IIoT, telemetry, data acquisition and infrastructure.*
