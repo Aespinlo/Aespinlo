@@ -79,12 +79,11 @@ flowchart LR
     B --> C[(InfluxDB<br/>time-series)]
     C --> D[Grafana<br/>dashboards]
     D --> E[Cloudflare Tunnel]
-    E --> F[bsx.es]
+    E --> F[domain]
 ```
 
 - **Stack:** MQTT (Mosquitto) · InfluxDB · Grafana · Raspberry Pi · Cloudflare Tunnel
 - **Highlights:** network design, time-series storage, real-time visualization, and secure internet exposure through a Cloudflare Tunnel under a custom domain, with no ports opened on the router.
-- 🌐 Live: [bsx.es](https://bsx.es)
 
 ---
 
