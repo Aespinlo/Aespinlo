@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Hi, I'm Andrés Espinel 👋
+# Hi, I'm Andrés Espinel
 
 ### Telecommunications Engineer · IIoT & Telemetry · Cloud Infrastructure
 
@@ -33,13 +33,13 @@
 
 <br>
 
-📍 Valladolid, Spain &nbsp;·&nbsp; 🌍 Open to remote (EU / international) &nbsp;·&nbsp; 🗣️ English B2 · Spanish (native)
+📍 Valladolid, Spain &nbsp;·&nbsp; Open to remote (EU / international) &nbsp;·&nbsp; English B2 · Spanish (native)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Telecommunications Engineer (Telematics) from the **University of Valladolid**. At **NTT DATA** I work on critical infrastructure for **Telefónica** and **Cepsa/Moeve**: Linux, VMware vSphere, VLAN-isolated networks, patching, and backup & disaster recovery with NetBackup.
 
@@ -49,7 +49,7 @@ Outside work, I design telemetry and automation systems end to end: MQTT brokers
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### ☁️ Systems & Cloud
 `Linux` · `VMware vSphere` · `PowerCLI` · `Docker` · `Kubernetes` · `VPS administration` · `NetBackup` · `Disaster Recovery (DRP/BRP)`
@@ -65,9 +65,9 @@ Outside work, I design telemetry and automation systems end to end: MQTT brokers
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### 📡 [weather-station-iot](https://github.com/Aespinlo/weather-station-iot)
+### [weather-station-iot](https://github.com/Aespinlo/weather-station-iot)
 **Real-time weather station: end-to-end telemetry architecture (Bachelor's Thesis)**
 
 A complete data-acquisition pipeline, from sensor to public dashboard.
@@ -88,7 +88,7 @@ flowchart LR
 
 ---
 
-## 🔧 Other Work
+## Other Work
 
 - **Kubernetes lab:** multi-worker cluster on virtual machines, used to practice deployments, scaling and self-healing.
 - **Workflow automation:** n8n flows integrating services and publishing content autonomously.
@@ -99,7 +99,7 @@ flowchart LR
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 | Role | Where | What I do |
 |---|---|---|
@@ -108,14 +108,14 @@ flowchart LR
 
 ---
 
-## 🎓 Education
+## Education
 
 - **B.Sc. in Telecommunication Technologies Engineering (Telematics)**, University of Valladolid (2020 – 2025)
 - **Erasmus+**, Aristotle University of Thessaloniki, Greece (2024 – 2025)
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
