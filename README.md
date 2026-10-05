@@ -67,7 +67,7 @@ Outside work, I design telemetry and automation systems end to end: MQTT brokers
 
 ## 🚀 Featured Project
 
-### 📡 [weather-station-iot](https://github.com/YOUR_GITHUB_USER/weather-station-iot)
+### 📡 [weather-station-iot](https://github.com/Aespinlo/weather-station-iot)
 **Real-time weather station: end-to-end telemetry architecture (Bachelor's Thesis)**
 
 A complete data-acquisition pipeline, from sensor to public dashboard.
